@@ -1,5 +1,8 @@
-## About tool
-
+## Xteam tool
+## Screenshot:
+<br>
+<p align="center">
+<img width="95%" src="https://github.com/xploitstech/Xteam/blob/main/Ig_information_gathering/Core_files/Xteamsce.png"\>
 ## Features:
 
 - Insta information gathering
@@ -48,10 +51,7 @@
 * `chmod +x *`
 * `sudo bash Xteam.sh`
 
-## Screenshot:
-<br>
-<p align="center">
-<img width="95%" src="https://github.com/xploitstech/Xteam/blob/main/Ig_information_gathering/Core_files/Xteamsce.png"\>
+
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
