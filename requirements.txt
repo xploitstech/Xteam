@@ -1,0 +1,4 @@
+bs4==0.0.1
+fake-useragent==0.1.11
+requests==2.25.1
+urllib3==1.26.5
