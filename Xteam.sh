@@ -33,7 +33,7 @@ echo -e " $Blue     ||                                                          
 echo -e " $Green     ||             $Purple==>$Yellow[1️⃣] Insta information gathering$Green                    ||"
 echo -e " $Green     ||             $Purple==>️$Yellow[2️⃣] Crack android lockscreen interfaces$Green            ||"
 echo -e " $Green     ||             $Purple==>$Yellow[3️⃣] Phishing hacks$Green                                 ||"
-echo -e " $Green     ||             $Purple==>$Yellow[4️⃣] Wireless Attacks[coming soon]$Green                  ||"
+echo -e " $Green     ||             $Purple==>$Yellow[4️⃣] Wireless Attacks$Green                               ||"
 echo -e " $Green     ||             $Purple==>$Yellow[5️⃣] Update Xteam$Green                                   ||"
 echo -e " $Green     ||             $Purple==>$Yellow[6️⃣] Remove Xteam$Green                                   ||"
 echo -e " $Green     ||             $Purple==>$Yellow[7️⃣] About$Green                                          ||"
@@ -67,7 +67,10 @@ echo " "
 
         exit
     elif [ $ch -eq 4 ];then
-        cd $HOME
+        cd $Wireless_attacks
+        cd $wifite_master
+        chmod +x wifite.py
+        sudo ./wifite.py
 
         exit
     elif [ $ch -eq 5 ];then
