@@ -51,7 +51,7 @@
 * `chmod +x *`
 * `sudo bash Xteam.sh`
 
-
+https://www.paypal.com/donate?hosted_button_id=LQCYCZELDZHQQ
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
