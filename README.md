@@ -53,6 +53,13 @@
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
 * `sudo bash Xteam.sh`
+  
+  ### do you want to support us ?
+
+<a href="https://www.buymeacoffee.com/xploitstech" target="_blank">
+  <img hspace="10" src="https://opencollective.com/instapy/contribute/button@2x.png?color=blue" width=300 />
+</a>
+
 
 https://www.buymeacoffee.com/xploitstech
 
