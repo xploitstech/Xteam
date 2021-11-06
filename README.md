@@ -54,7 +54,7 @@
 * `chmod +x *`
 * `sudo bash Xteam.sh`
 
-
+https://www.buymeacoffee.com/xploitstech
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
