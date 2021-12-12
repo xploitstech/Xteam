@@ -9,7 +9,8 @@
 
 - Insta information gathering
 - Crack android lockscreen interfaces
-- phishing hacks
+- Phishing Hacks
+- Wireless attacks added
 - Update script
 - Remove script
 
