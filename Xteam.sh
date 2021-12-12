@@ -19,22 +19,22 @@ clear
 echo -e "$Green Created By \e[1;34m"
        figlet X TEAM | lolcat
 sleep 2.0
-dict =
+
     echo " "
     echo -e "$Red                               ⫸ Coded by$Yellow xploits.tech$Red ⫷\033[0m"
     echo -e "$Red                               ⫸$Purple X Hackers$Red ⫷\033[0m"
 echo " "
 echo -e " $Red       ||----------------------------$Cyan [features] $Blue ---------------------------||"
-echo -e " $Red       ||                                                                   ||"
+echo -e " $Red       ||                                                                    ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[1️⃣] Insta information gathering$Blue                     ||"
 echo -e " $Red       ||             $Purple%=>️$Yellow[2️⃣] Crack android lockscreen interfaces$Blue             ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[3️⃣] Phishing hacks$Blue                                  ||"
-echo -e " $Red       ||             $Purple%=>$Yellow[4️⃣] Wireless Attacks$Blue                   ||"
+echo -e " $Red       ||             $Purple%=>$Yellow[4️⃣] Wireless Attacks$Blue                                ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[5️⃣] Update Xteam$Blue                                    ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[6️⃣] Remove Xteam$Blue                                    ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[7️⃣] About$Blue                                           ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[8️⃣] exit$Blue                                            ||"
-echo -e " $Red       ||                                                                   ||"                                                                                       
+echo -e " $Red       ||                                                                    ||"                                                                                       
 echo -e " $Red       ||---------------------------$Cyan [select option] $Blue -----------------------||"
 echo -e " $Blue      |---------------------------------------------------------------------|"
 echo " "
