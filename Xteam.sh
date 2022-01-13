@@ -32,7 +32,7 @@ echo -e " $Red       ||             $Purple%=>$Yellow[3️⃣] Phishing hacks$Bl
 echo -e " $Red       ||             $Purple%=>$Yellow[4️⃣] Wireless Attacks$Blue                                ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[5️⃣] Update Xteam$Blue                                    ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[6️⃣] Remove Xteam$Blue                                    ||"
-echo -e " $Red       ||             $Purple%=>$Yellow[7️⃣] About$Blue                                           ||"
+echo -e " $Red       ||             $Purple%=>$Yellow[7️⃣] About Cynone.com$Blue                                           ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[8️⃣] exit$Blue                                            ||"
 echo -e " $Red       ||                                                                    ||"                                                                                       
 echo -e " $Red       ||---------------------------$Cyan [select option] $Blue -----------------------||"
