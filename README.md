@@ -13,6 +13,7 @@
 - Wireless attacks added
 - Update script
 - Remove script
+- more coming
 
 ## Requirements
 - Data connection
