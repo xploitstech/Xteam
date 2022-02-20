@@ -26,7 +26,7 @@
 
 ## Test On:
 - Termux
-- Debian
+- Debian 
 
 ## INSTALLATION [Termux]
 
