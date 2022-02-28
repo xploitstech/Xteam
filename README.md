@@ -56,7 +56,7 @@
 * `sudo bash Xteam.sh`
   
   ### do you want to support us ?
-  <a href="https://www.paypal.com/donate/?hosted_button_id=LQCYCZELDZHQQ" target="_blank"><a title="paypal logo PNG image with transparent background@toppng.com" href="https://toppng.com/photo/473032" target="_blank">paypal logo PNG image with transparent background@toppng.com</a></a>
+  <a href="https://www.paypal.com/donate/?hosted_button_id=LQCYCZELDZHQQ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
   
 
 
