@@ -6,7 +6,6 @@
 <p align="center">
 <img width="95%" src="https://github.com/xploitstech/Xteam/blob/main/Ig_information_gathering/Core_files/Xteamsce.png"\>
 ## Features:
-
 - Insta information gathering
 - Crack android lockscreen interfaces
 - Phishing Hacks
