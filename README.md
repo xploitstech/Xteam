@@ -22,7 +22,7 @@
 ## Available On
 - Termux
 - Kali Linux
-
+ 
 ## Test On:
 - Termux
 - Debian 
