@@ -54,7 +54,7 @@
 * `chmod +x *`
 * `sudo bash Xteam.sh`
   
-  ### do you want to support us ?
+  ### do you want to support us?
   <a href="https://www.paypal.com/donate/?hosted_button_id=LQCYCZELDZHQQ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="support us" style="height: 60px !important;width: 217px !important;" ></a>
   
 
