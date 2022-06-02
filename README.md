@@ -21,7 +21,7 @@
 
 ## Available On
 - Termux
-- Kali Linux
+- Kali Linux 
  
 ## Test On:
 - Termux
