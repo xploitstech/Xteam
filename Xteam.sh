@@ -22,7 +22,7 @@ sleep 2.0
 
     echo " "
     echo -e "$Red                               ⫸ Coded by$Yellow xploitstech$Red ⫷\033[0m"
-    echo -e "$Red                               ⫸$Purple X Hackers$Red ⫷\033[0m"
+    echo -e "$Red                               ⫸$Purple X TEKASHI$Red ⫷\033[0m"
 echo " "
 echo -e " $Red       ||----------------------------$Cyan [features] $Blue ---------------------------||"
 echo -e " $Red       ||                                                                    ||"
