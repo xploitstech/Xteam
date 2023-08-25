@@ -13,8 +13,7 @@
 - Update script
 - Remove script
 - more coming..
- <a 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="xploitstech" data-color="#5F7FFF" data-emoji="⚙️"  data-font="Arial" data-text="BUY  PREMIUM" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>></a>
+<a href="https://www.buymeacoffee.com/xploitstech"><img src="https://img.buymeacoffee.com/button-api/?text=BUY  PREMIUM&emoji=⚙️&slug=xploitstech&button_colour=5F7FFF&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a>
 ## Requirements
 - Data connection
 
