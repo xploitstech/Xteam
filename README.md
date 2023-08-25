@@ -5,7 +5,9 @@
 <br>
 <p align="center">
 <img width="95%" src="https://github.com/xploitstech/Xteam/blob/main/Ig_information_gathering/Core_files/Xteamsce.png"\>
+ 
 ## Features:
+
 - Insta information gathering
 - Crack android lockscreen interfaces
 - Phishing Hacks
@@ -13,7 +15,10 @@
 - Update script
 - Remove script
 - more coming..
-<a href="https://www.buymeacoffee.com/xploitstech"><img src="https://img.buymeacoffee.com/button-api/?text=BUY  PREMIUM&emoji=⚙️&slug=xploitstech&button_colour=5F7FFF&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a>
+- 
+<a href="https://www.buymeacoffee.com/xploitstech](https://www.buymeacoffee.com/xploitstech/e/162090?from_page=home"><img src="https://img.buymeacoffee.com/button-api/?text=BUY  PREMIUM&emoji=⚙️&slug=xploitstech&button_colour=5F7FFF&font_colour=ffffff&font_family=Arial&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+
 ## Requirements
 - Data connection
 
