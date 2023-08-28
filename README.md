@@ -14,7 +14,7 @@
 - Wireless attacks added
 - Update script
 - Remove script
-- more coming..
+- more coming...
 
 
 
