@@ -57,8 +57,8 @@
 * `chmod +x *`
 * `sudo bash Xteam.sh`
   
-  ### do you want to support us?
- Bitcoin wallet : 3HMWWxAQspwHwrMwcfAjsX5i2w8KryNVGu
+  ### Do you want to support us?
+
   
   
 
