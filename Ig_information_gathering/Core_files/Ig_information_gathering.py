@@ -4,20 +4,19 @@ from PersonalLib.More import *
 
 try:
 	from bs4 import BeautifulSoup
-	from fake_useragent import UserAgent
 	import requests
 	import json
 	import sys
 except ImportError:
 	print("""One or more modules are not installed.
 Run the following command to install missing modules:
-pip install bs4 fake_useragent requests json""")
+pip install bs4 requests""")
 
 ######################
 session = requests.Session()
 ######################
 headers1_1 = {
-	'user-agent' : UserAgent().random
+	'user-agent' : 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36'
 }
 ######################
 
